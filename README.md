@@ -7,11 +7,13 @@
 
 Steps to configire:
 
-delete/backup your already created confguration file
+delete/backup your already created vim configuration file
+
 cd ~ || rm ~/.vimrc
+
 rename config.vim to ~/.vimrc
 
-move molokai.vin into ~/.vim/color
+move molokai.vin into ~/.vim/color/
 
 all the keybindngs and commands has comments please make few changes before using it.
 
